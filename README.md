@@ -13,3 +13,12 @@ Code Review Functionality
 - Utilize the OpenAI/GoogleAI API for code review functionality.
 - The application should analyze the submitted code and identify potential bugs, errors, or areas of improvement.
 - The application should also provide the fixed code snippets.
+
+
+# Steps to Run the code file. If you want to try it out on your end. 
+Install required libraries,
+- pip install streamlit
+- pip install google-generativeai
+
+To run the file,   
+streamlit run Code.py
